@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "title": "OneTouch — websites, SEO and NFC for business",
+    "description": "OneTouch helps businesses in Poland win more customers with modern websites, better Google visibility and practical NFC solutions.",
+    "ogAlt": "OneTouch Web SEO NFC — dark brand preview with website interfaces and an NFC motif"
+  },
+  "nav": {
+    "aria": "Main navigation",
+    "services": "Services",
+    "websites": "Websites",
+    "projects": "Projects",
+    "process": "Process",
+    "pricing": "Packages",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cta": "Request a quote",
+    "open": "Open menu",
+    "close": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "Website studio for businesses in Poland",
+    "title": "A website that guides customers from first click to contact.",
+    "text": "OneTouch designs and builds modern websites for small and medium businesses. SEO and NFC are added where they genuinely help generate inquiries, reviews and bookings.",
+    "primary": "Book a call",
+    "secondary": "Message on WhatsApp",
+    "points": [
+      "Websites as the core specialty",
+      "Support in PL, UA and EN",
+      "SEO and NFC as extensions"
+    ]
+  },
+  "services": {
+    "eyebrow": "Scope",
+    "title": "Three services, one goal: more of the right customers.",
+    "text": "We do not build everything for everyone. We focus on websites, Google visibility and simple NFC solutions that support sales and contact.",
+    "items": [
+      {
+        "icon": "websites",
+        "title": "Websites",
+        "text": "Design, copy structure, implementation and responsive frontend aligned with the business goal: contact, sales, booking or offer presentation."
+      },
+      {
+        "icon": "seo",
+        "title": "SEO",
+        "text": "Technical foundations, local visibility, organized content and optimization for websites built by OneTouch."
+      },
+      {
+        "icon": "nfc",
+        "title": "NFC",
+        "text": "Digital business cards, Google review cards and QR/NFC profile solutions that shorten the path from meeting to action."
+      }
+    ]
+  },
+  "websiteTypes": {
+    "eyebrow": "Websites",
+    "title": "First we match the website format to how your business wins customers.",
+    "text": "Each website type has a different job. Structure, content and calls to action are shaped around the actual business model.",
+    "items": [
+      {
+        "icon": "landing",
+        "title": "Landing pages",
+        "text": "One offer, one path, fast contact."
+      },
+      {
+        "icon": "business",
+        "title": "Business websites",
+        "text": "Clear presentation of services, trust and location."
+      },
+      {
+        "icon": "store",
+        "title": "Online stores",
+        "text": "Product sales with an organized offer."
+      },
+      {
+        "icon": "portfolio",
+        "title": "Portfolio websites",
+        "text": "Work, projects and style shown without clutter."
+      },
+      {
+        "icon": "booking",
+        "title": "Booking websites",
+        "text": "Appointments, forms and contact in one place."
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Featured work",
+    "title": "Project placeholders without invented logos or testimonials.",
+    "text": "This section is ready for real launches. Until case studies are published, it shows the types of projects OneTouch supports.",
+    "items": [
+      {
+        "title": "Local service business",
+        "text": "A site with an offer, contact form, service area and foundations for local SEO."
+      },
+      {
+        "title": "Specialist or studio",
+        "text": "A portfolio with clear style, a process explanation and a simple inquiry path."
+      },
+      {
+        "title": "Sales and bookings",
+        "text": "A structure for products, appointments or quote requests depending on the business model."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Process",
+    "title": "Clear work from brief to launch.",
+    "text": "The project moves through visible stages so the business knows what is being created, why it matters and when it can be reviewed.",
+    "items": [
+      {
+        "title": "Direction",
+        "text": "We define the offer, audience, languages, website goals and the most important contact paths."
+      },
+      {
+        "title": "Structure",
+        "text": "We shape sections, content hierarchy and SEO foundations before the visual design."
+      },
+      {
+        "title": "Design and build",
+        "text": "We build a responsive website and refine interactions, accessibility and language versions."
+      },
+      {
+        "title": "Launch",
+        "text": "We publish, check forms, links, metadata and prepare the next steps."
+      }
+    ]
+  },
+  "benefits": {
+    "eyebrow": "Why OneTouch",
+    "title": "Less distraction, more decisions that help the customer act.",
+    "items": [
+      {
+        "title": "An offer without chaos",
+        "text": "Content guides visitors through services, trust signals and contact."
+      },
+      {
+        "title": "Multilingual from day one",
+        "text": "Polish, Ukrainian and English are part of the structure from the first version."
+      },
+      {
+        "title": "SEO from the foundation",
+        "text": "Metadata, semantic HTML and technical hygiene are planned during the build."
+      },
+      {
+        "title": "NFC where it helps",
+        "text": "Cards and profiles support reviews, contacts and customer return paths."
+      }
+    ]
+  },
+  "seo": {
+    "eyebrow": "SEO",
+    "title": "Google visibility as a natural extension of the website.",
+    "text": "We treat SEO practically: first a solid website, then technical and local elements that help customers find the business.",
+    "items": [
+      {
+        "title": "Technical SEO",
+        "text": "Heading structure, metadata, indexing, loading speed and correct sitemap setup."
+      },
+      {
+        "title": "Local SEO",
+        "text": "Content and structure aligned with local services, cities and customer searches."
+      },
+      {
+        "title": "Google Business Profile",
+        "text": "Clear profile information, descriptions, categories and paths that lead to contact."
+      },
+      {
+        "title": "On-page SEO",
+        "text": "Titles, descriptions, internal linking and content for websites built by OneTouch."
+      }
+    ]
+  },
+  "nfc": {
+    "eyebrow": "NFC",
+    "title": "Physical contact that immediately leads to a digital action.",
+    "text": "NFC supports the website and offline sales: after a meeting, in a venue, at an event or during customer service.",
+    "items": [
+      {
+        "title": "Digital business cards",
+        "text": "One tap opens a profile with contact details, links and the core offer."
+      },
+      {
+        "title": "Google review cards",
+        "text": "A simple path to leaving a review after a service or purchase."
+      },
+      {
+        "title": "QR and NFC profiles",
+        "text": "Practical profile pages for people, points of sale and teams."
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Packages",
+    "title": "Quote-oriented packages: scope is selected after a short conversation.",
+    "text": "Every company has a different offer and pace. These packages make it easier to define a quote direction without artificial promises.",
+    "cta": "Discuss the scope",
+    "items": [
+      {
+        "title": "Start Web",
+        "price": "Quoted after brief",
+        "text": "For businesses that need a strong first page or landing page.",
+        "features": ["Website structure", "Responsive design", "Basic SEO", "Contact form"]
+      },
+      {
+        "title": "Business Web",
+        "price": "Most common scope",
+        "text": "For services, local brands and companies that want to present their offer clearly.",
+        "features": [
+          "Several sections or pages",
+          "PL, UA and EN versions",
+          "Technical SEO",
+          "CTA integration"
+        ]
+      },
+      {
+        "title": "Growth Web + SEO/NFC",
+        "price": "Individual scope",
+        "text": "For companies that want to connect a website, visibility and NFC solutions.",
+        "features": [
+          "Expanded structure",
+          "Local SEO",
+          "Google Business Profile",
+          "NFC cards or profiles"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Common questions before starting.",
+    "text": "Short and concrete, so it is easier to decide on the first conversation.",
+    "items": [
+      {
+        "q": "Are the websites available in three languages from the beginning?",
+        "a": "Yes. Polish is the default language, while Ukrainian and English are prepared in the same translation structure."
+      },
+      {
+        "q": "Can I order only a website without SEO and NFC?",
+        "a": "Yes. Websites are the main OneTouch service, while SEO and NFC can be added when they make sense for the business."
+      },
+      {
+        "q": "Do you work with small local companies?",
+        "a": "Yes. The offer structure is built especially for small and medium businesses in Poland."
+      },
+      {
+        "q": "Is WhatsApp enough for the first contact?",
+        "a": "Yes. A short message with your industry, location and website goal is enough to define the next step."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Tell us how customers should find your business.",
+    "text": "Write a few sentences about the company, offer and website goal. You can start with WhatsApp or send a message through the form.",
+    "form": {
+      "name": "Name and company",
+      "namePlaceholder": "e.g. Anna, beauty salon",
+      "email": "Email",
+      "emailPlaceholder": "contact@company.pl",
+      "message": "Message",
+      "messagePlaceholder": "I need a website for a service business in Krakow...",
+      "submit": "Send inquiry",
+      "sent": "Opening your email client with a prepared message."
+    }
+  }
+}

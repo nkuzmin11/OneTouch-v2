@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "title": "OneTouch — strony internetowe, SEO i NFC dla firm",
+    "description": "OneTouch pomaga firmom w Polsce zdobywać klientów dzięki nowoczesnym stronom, lepszej widoczności w Google i praktycznym rozwiązaniom NFC.",
+    "ogAlt": "OneTouch Web SEO NFC — ciemny podgląd marki z interfejsami stron i motywem NFC"
+  },
+  "nav": {
+    "aria": "Główna nawigacja",
+    "services": "Usługi",
+    "websites": "Strony",
+    "projects": "Projekty",
+    "process": "Proces",
+    "pricing": "Pakiety",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "cta": "Zapytaj o wycenę",
+    "open": "Otwórz menu",
+    "close": "Zamknij menu"
+  },
+  "hero": {
+    "eyebrow": "Studio stron dla firm w Polsce",
+    "title": "Strona, która prowadzi klienta od pierwszego kliknięcia do kontaktu.",
+    "text": "OneTouch projektuje i wdraża nowoczesne strony internetowe dla małych i średnich firm. SEO i NFC dokładamy tam, gdzie realnie pomagają zdobywać zapytania, opinie i rezerwacje.",
+    "primary": "Umów rozmowę",
+    "secondary": "Napisz na WhatsApp",
+    "points": [
+      "Strony jako główna specjalizacja",
+      "Obsługa PL, UA i EN",
+      "SEO i NFC jako rozszerzenia"
+    ]
+  },
+  "services": {
+    "eyebrow": "Zakres",
+    "title": "Trzy usługi, jeden cel: więcej właściwych klientów.",
+    "text": "Nie budujemy wszystkiego dla wszystkich. Skupiamy się na stronach, widoczności w Google i prostych rozwiązaniach NFC, które wspierają sprzedaż i kontakt.",
+    "items": [
+      {
+        "icon": "websites",
+        "title": "Strony internetowe",
+        "text": "Projekt, treść, wdrożenie i responsywny frontend dopasowany do celu firmy: kontaktu, sprzedaży, rezerwacji lub prezentacji oferty."
+      },
+      {
+        "icon": "seo",
+        "title": "SEO",
+        "text": "Techniczna podstawa, lokalna widoczność, uporządkowane treści i optymalizacja stron budowanych przez OneTouch."
+      },
+      {
+        "icon": "nfc",
+        "title": "NFC",
+        "text": "Cyfrowe wizytówki, karty opinii Google oraz profile QR i NFC, które skracają drogę od spotkania do działania."
+      }
+    ]
+  },
+  "websiteTypes": {
+    "eyebrow": "Strony internetowe",
+    "title": "Najpierw dobieramy format strony do sposobu, w jaki pozyskujesz klientów.",
+    "text": "Każdy typ strony ma inną rolę. Dlatego struktura, treść i wezwania do działania są projektowane pod konkretny model biznesu.",
+    "items": [
+      {
+        "icon": "landing",
+        "title": "Landing page",
+        "text": "Jedna oferta, jedna ścieżka, szybki kontakt."
+      },
+      {
+        "icon": "business",
+        "title": "Strona firmowa",
+        "text": "Czytelna prezentacja usług, zaufania i lokalizacji."
+      },
+      {
+        "icon": "store",
+        "title": "Sklep online",
+        "text": "Sprzedaż produktów z uporządkowaną ofertą."
+      },
+      {
+        "icon": "portfolio",
+        "title": "Portfolio",
+        "text": "Prace, realizacje i styl pokazane bez chaosu."
+      },
+      {
+        "icon": "booking",
+        "title": "Rezerwacje",
+        "text": "Terminy, formularze i kontakt w jednym miejscu."
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Realizacje",
+    "title": "Miejsca na wybrane projekty bez udawanych logotypów.",
+    "text": "Sekcja jest gotowa na prawdziwe wdrożenia. Do czasu publikacji case studies pokazuje typy projektów, które OneTouch obsługuje.",
+    "items": [
+      {
+        "title": "Lokalna firma usługowa",
+        "text": "Strona z ofertą, formularzem kontaktowym, mapą działania i podstawą pod lokalne SEO."
+      },
+      {
+        "title": "Specjalista lub studio",
+        "text": "Portfolio z wyraźnym stylem, opisem procesu i prostą ścieżką zapytania."
+      },
+      {
+        "title": "Sprzedaż i rezerwacje",
+        "text": "Struktura pod produkty, terminy lub zapytania ofertowe, zależnie od modelu firmy."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Proces",
+    "title": "Przejrzysta praca od briefu do publikacji.",
+    "text": "Projekt prowadzimy etapami, aby firma wiedziała, co powstaje, dlaczego i kiedy można to sprawdzić.",
+    "items": [
+      {
+        "title": "Kierunek",
+        "text": "Ustalamy ofertę, odbiorców, języki, cele strony i najważniejsze ścieżki kontaktu."
+      },
+      {
+        "title": "Struktura",
+        "text": "Tworzymy układ sekcji, hierarchię treści i podstawy SEO przed właściwym projektem."
+      },
+      {
+        "title": "Projekt i wdrożenie",
+        "text": "Budujemy responsywną stronę, dopracowujemy interakcje, dostępność i wersje językowe."
+      },
+      {
+        "title": "Start",
+        "text": "Publikujemy, sprawdzamy formularze, linki, metadane i przygotowujemy dalsze kroki."
+      }
+    ]
+  },
+  "benefits": {
+    "eyebrow": "Dlaczego OneTouch",
+    "title": "Mniej rozproszenia, więcej decyzji, które pomagają klientowi działać.",
+    "items": [
+      {
+        "title": "Oferta bez chaosu",
+        "text": "Treści prowadzą użytkownika przez usługi, dowody zaufania i kontakt."
+      },
+      {
+        "title": "Gotowe na wiele języków",
+        "text": "Polski, ukraiński i angielski są częścią struktury od pierwszej wersji."
+      },
+      {
+        "title": "SEO od fundamentów",
+        "text": "Metadane, semantyka i techniczna higiena są zaplanowane już podczas budowy."
+      },
+      {
+        "title": "NFC tam, gdzie ma sens",
+        "text": "Karty i profile pomagają zbierać opinie, kontakty i powroty klientów."
+      }
+    ]
+  },
+  "seo": {
+    "eyebrow": "SEO",
+    "title": "Widoczność w Google jako naturalne rozszerzenie strony.",
+    "text": "SEO traktujemy praktycznie: najpierw porządna strona, potem techniczne i lokalne elementy, które pomagają klientom znaleźć firmę.",
+    "items": [
+      {
+        "title": "Technical SEO",
+        "text": "Struktura nagłówków, metadane, indeksowanie, szybkość ładowania i poprawne mapy witryny."
+      },
+      {
+        "title": "Local SEO",
+        "text": "Treści i struktura dopasowane do lokalnych usług, miast i zapytań klientów."
+      },
+      {
+        "title": "Google Business Profile",
+        "text": "Porządek w profilu, opisach, kategoriach i ścieżkach prowadzących do kontaktu."
+      },
+      {
+        "title": "On-page SEO",
+        "text": "Tytuły, opisy, linkowanie i treść dopracowane dla stron budowanych przez OneTouch."
+      }
+    ]
+  },
+  "nfc": {
+    "eyebrow": "NFC",
+    "title": "Fizyczny kontakt, który od razu prowadzi do cyfrowej akcji.",
+    "text": "NFC wspiera stronę i sprzedaż offline: po spotkaniu, w lokalu, na wydarzeniu albo przy obsłudze klienta.",
+    "items": [
+      {
+        "title": "Cyfrowe wizytówki",
+        "text": "Jedno dotknięcie otwiera profil z kontaktem, linkami i najważniejszą ofertą."
+      },
+      {
+        "title": "Karty opinii Google",
+        "text": "Prosta droga do wystawienia opinii po usłudze lub zakupie."
+      },
+      {
+        "title": "Profile QR i NFC",
+        "text": "Praktyczne strony profilowe dla osób, punktów sprzedaży i zespołów."
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Pakiety",
+    "title": "Pakiety quote-oriented: zakres dobieramy po krótkiej rozmowie.",
+    "text": "Każda firma ma inną ofertę i tempo. Te pakiety pomagają szybko ustalić kierunek wyceny bez sztucznych obietnic.",
+    "cta": "Porozmawiajmy o zakresie",
+    "items": [
+      {
+        "title": "Start Web",
+        "price": "Wycena po briefie",
+        "text": "Dla firm, które potrzebują mocnej pierwszej strony lub landing page.",
+        "features": [
+          "Struktura strony",
+          "Projekt responsywny",
+          "Podstawowe SEO",
+          "Formularz kontaktowy"
+        ]
+      },
+      {
+        "title": "Business Web",
+        "price": "Najczęstszy zakres",
+        "text": "Dla usług, lokalnych marek i firm, które chcą jasno pokazać ofertę.",
+        "features": [
+          "Kilka sekcji lub podstron",
+          "Wersje PL, UA i EN",
+          "SEO techniczne",
+          "Integracja CTA"
+        ]
+      },
+      {
+        "title": "Growth Web + SEO/NFC",
+        "price": "Zakres indywidualny",
+        "text": "Dla firm, które chcą połączyć stronę, widoczność i rozwiązania NFC.",
+        "features": [
+          "Rozbudowana struktura",
+          "Local SEO",
+          "Google Business Profile",
+          "Karty lub profile NFC"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Najczęstsze pytania przed startem.",
+    "text": "Krótko i konkretnie, żeby łatwiej zdecydować o pierwszej rozmowie.",
+    "items": [
+      {
+        "q": "Czy strony są dostępne od razu w trzech językach?",
+        "a": "Tak. Polski jest domyślny, a ukraiński i angielski są przygotowane w tej samej strukturze tłumaczeń."
+      },
+      {
+        "q": "Czy mogę zamówić tylko stronę bez SEO i NFC?",
+        "a": "Tak. Strony internetowe są główną usługą OneTouch, a SEO i NFC można dodać wtedy, gdy mają sens dla firmy."
+      },
+      {
+        "q": "Czy pracujecie z małymi lokalnymi firmami?",
+        "a": "Tak. Struktura oferty jest tworzona szczególnie z myślą o małych i średnich firmach w Polsce."
+      },
+      {
+        "q": "Czy kontakt przez WhatsApp wystarczy na początek?",
+        "a": "Tak. Krótka wiadomość z branżą, lokalizacją i celem strony wystarczy, aby ustalić następny krok."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Opowiedz, jak klienci mają znaleźć Twoją firmę.",
+    "text": "Napisz kilka zdań o firmie, ofercie i celu strony. Możesz zacząć od WhatsApp albo wysłać wiadomość przez formularz.",
+    "form": {
+      "name": "Imię i firma",
+      "namePlaceholder": "np. Anna, salon kosmetyczny",
+      "email": "Email",
+      "emailPlaceholder": "kontakt@firma.pl",
+      "message": "Wiadomość",
+      "messagePlaceholder": "Potrzebuję strony dla firmy usługowej w Krakowie...",
+      "submit": "Wyślij zapytanie",
+      "sent": "Otwieram klienta poczty z gotową wiadomością."
+    }
+  }
+}
